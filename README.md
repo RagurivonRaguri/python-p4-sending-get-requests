@@ -10,7 +10,7 @@
 
 ## Key Vocab
 
-- **Request**: an attempt by one machine to contact another over the internet.
+- **Request** : an attempt by one machine to contact another over the internet.
 - **Client**: an application or machine that accesses services being provided by
   a server through the internet.
 - **Web Server**: a combination of software and hardware that uses Hypertext
